@@ -1,5 +1,0 @@
-timestamp,type,message,snapshot
-2025-12-03 21:23:51,Possible Fall,"Possible fall detected, monitoring patient...",static/fall_2025-12-03_21-23-51.jpg
-2025-12-03 21:23:52,Fall Cancelled,Fall cancelled due to normal movement.,
-2025-12-03 21:24:41,Possible Fall,"Possible fall detected, monitoring patient...",static/fall_2025-12-03_21-24-41.jpg
-2025-12-03 21:24:47,Fall Cancelled,Fall cancelled due to normal movement.,
